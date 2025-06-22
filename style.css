@@ -1,0 +1,157 @@
+*{
+    margin:0;
+    font-family: Arial;
+    border:border-box ;
+    background-color: black;
+}
+i{
+    background-color:white;
+}
+p{
+    background-color: white;
+}
+.main_box{
+    height:1067px;   /*make one pixel more at last after verification. */
+    width: 550px;
+    margin-left:700px;
+    background-color: white;
+}
+.box-1{
+    height:500px;
+    width: 480px;
+    margin-left:30px;
+    background-color:white;
+}
+.cpuimage{
+    height:100%;
+    width :76%;
+    background-size:cover;
+    /* background-color: brown;      check with background color at last */
+    background-color: white;
+}
+.box-2{
+    height:200px;
+    width:100%;
+    background-color:white;
+    margin-top:40px;
+}
+.box-2 h2{
+    font-size: 55px;
+    line-height:1.5em;
+    background-color: white;
+}
+.box-3{
+    height: 48px;
+    width:100%;
+    background-color:white;
+    display:flex;
+}
+.rating{
+    display:flex;
+    background-color: white;
+}
+.rating_num{
+    display:flex;
+    background-color: white;
+}
+.star{
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+.drop-down{
+    background-color: white;
+    height:50px;
+    width:100%;
+}
+.total_rating{
+    background-color: white;
+} 
+.box-4{
+    display:flex;
+    height:45px;
+    width:100%;
+    background-color: white;
+}
+.box-4 p{
+    font-size: 50px;
+    background-color: white;
+}
+.box-5{
+    height:70px;
+    width:100%;
+    background-color: white;
+    margin-top:15px;
+    display: flex;
+}
+.symbol{
+    height: 30px;
+    width:20px;
+    background-color: white;
+    margin-top: 15px;
+    font-size: 25px;
+}
+.amount{
+   height: 65px;
+   width:150px;
+   background-color: white;
+}
+.amount p{
+   font-size: 100px;
+   background-color: white;
+}
+.pow-div{
+  height:50px;
+  width:50px;
+  background-color: white;
+}
+.pow-div p{
+    font-size: 45px;
+    background-color: white;
+}
+.box-6{
+    height:38px;    
+    width: 100%;
+    display:flex;
+    background-color: white;
+}
+.div1{
+    height:30px;
+    width:20px;
+    font-size:50px;
+    background-color: white;
+}
+.div2{
+    font-size: 50px;
+    background-color: white;
+}
+.box-7{
+    height: 150px;
+    width: 100%;
+    background-color: white;
+}
+.box-7 p{
+    margin-top: 10px;
+    font-size: 40px;
+    background-color: white;
+}
+.box-7 button{
+    margin-top: 30px;
+    font-size: 50px;
+    margin-left: 15px;
+    padding:15px;
+    border-radius : 35px;
+    background-color: rgb(255,216,20);
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
